@@ -15,11 +15,17 @@
       "doc3": {
         "title": "This is document number 3"
       },
+      "docs": {
+        "title": "docs"
+      },
       "doc4": {
         "title": "Other Document"
       },
       "doc5": {
         "title": "Fifth Document"
+      },
+      "README": {
+        "title": "README"
       }
     },
     "links": {

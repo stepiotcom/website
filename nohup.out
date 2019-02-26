@@ -10,3 +10,32 @@ Docusaurus server started on port 3000
 
 LiveReload server started on port 35729
 Docusaurus server started on port 3000
+
+> @ start /home/ubuntu/Docusaurus/website
+> docusaurus-start
+
+LiveReload server started on port 35729
+Docusaurus server started on port 3000
+Lifecycle scripts included in :
+  start
+    docusaurus-start
+  version
+    docusaurus-version
+
+available via `npm run-script`:
+  examples
+    docusaurus-examples
+  build
+    docusaurus-build
+  publish-gh-pages
+    docusaurus-publish
+  write-translations
+    docusaurus-write-translations
+  rename-version
+    docusaurus-rename-version
+
+> @ start /home/ubuntu/Docusaurus/website
+> docusaurus-start
+
+LiveReload server started on port 35729
+Docusaurus server started on port 3000
